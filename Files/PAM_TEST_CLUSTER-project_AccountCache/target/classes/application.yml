@@ -1,0 +1,15 @@
+spring:  
+  application:
+    name: ignite-rest-service
+  datasource:
+    name: h2DB
+    url: jdbc:h2:D:\Barc_Work\PAM_IGNITE\Database\PAM_TEST.db;AUTO_SERVER=TRUE
+    username: sa
+    password: 
+             
+server:  
+  port: ${PORT:8090}
+  
+management:
+  security:
+    enabled: false

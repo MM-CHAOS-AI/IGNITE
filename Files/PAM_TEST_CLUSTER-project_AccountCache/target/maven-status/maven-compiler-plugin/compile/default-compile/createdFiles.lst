@@ -1,0 +1,6 @@
+startup\ClientNodeSpringStartup.class
+startup\ClientNodeCodeStartup.class
+startup\ServerNodeSpringStartup.class
+config\ClientConfigurationFactory.class
+startup\ServerNodeCodeStartup.class
+config\ServerConfigurationFactory.class
